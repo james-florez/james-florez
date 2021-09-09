@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jcoding777
+- 👋 Hi, I’m James Florez
 - 👀 I’m interested in the intersection of software development and mechanical engineering
 - 🌱 I’m currently learning C++ and LabVIEW
 - 💞️ I’m looking to collaborate on open source projects
